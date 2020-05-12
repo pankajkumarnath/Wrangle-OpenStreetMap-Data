@@ -1,0 +1,7 @@
+Information on the map data used for the project:
+
+Location: Whitefield, Bengaluru, India.
+Download link: https://www.openstreetmap.org/export#map=12/12.9716/77.7472
+
+The reason for selecting this map location is because I am residing in this part of the city form last 7 years.
+During this period of time, I had changed my office and appartment few times and has explored this neighbourhoods many times.

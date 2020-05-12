@@ -1,0 +1,24 @@
+Github repositories:
+https://github.com/pratyush19/Udacity-Data-Analyst-Nanodegree/tree/master/P3-OpenStreetMap-Wrangling-with-SQL
+https://github.com/fengqy04/udacity-openstreetmap
+https://github.com/anilsai/Wrangle-OpenStreetMap-Data-SQL-database-Udacity-project
+https://github.com/kingfalcon/udacity-osm-project
+https://github.com/ian-whitestone/data-wrangling-openstreetmap
+
+
+Map Location:
+https://www.openstreetmap.org/export#map=12/12.9716/77.7472
+
+
+Websites:
+https://wiki.openstreetmap.org/wiki/Main_Page
+https://wiki.openstreetmap.org/wiki/Map_Features
+https://www.indiapost.gov.in/vas/pages/findpincode.aspx
+https://www.python.org/dev/peps/pep-0257/
+https://google.github.io/styleguide/pyguide.html?showone=Comments#Comments
+
+
+Online platforms used:
+https://jupyter.org/try
+https://sqliteonline.com/
+https://colab.research.google.com
